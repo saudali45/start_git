@@ -13,6 +13,9 @@ int swap_2(int &array,int n){
     }
     
 }
+int bubble_sort(int &array,int n){
+    
+}
     int main(){
     int arrt[] = {1,3,67,3,21,6,8}; // add arr
     // int n = arrt.size();
