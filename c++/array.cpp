@@ -15,5 +15,7 @@ int swap_2(int &array,int n){
 }
     int main(){
     int arrt[] = {1,3,67,3,21,6,8}; // add arr
+    // int n = arrt.size();
+    int n = 7;
     return 0;
 }
