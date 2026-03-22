@@ -14,6 +14,9 @@ int swap_2(int &array,int n){
     
 }
 int bubble_sort(int &array,int n){
+
+}
+int selection(){
     
 }
     int main(){
