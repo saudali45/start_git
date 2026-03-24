@@ -3,3 +3,8 @@ p{
     border-color: rgb(16, 17, 17);
     color: blue;
 }
+h1{
+    color: aqua;
+    border: 12px;
+    border-color: blue;
+}
