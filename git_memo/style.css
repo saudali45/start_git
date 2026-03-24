@@ -8,3 +8,13 @@ h1{
     border: 12px;
     border-color: blue;
 }
+em{
+    color:brown ;
+}
+button{
+    color: rgb(190, 185, 178);
+    border-color: blue;
+    padding: 50px;
+    background-color: black;
+    border-radius: 25px;
+}
